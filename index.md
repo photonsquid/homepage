@@ -1,23 +1,13 @@
 # PhotonSquid
 
-![avatar](https://avatars.githubusercontent.com/u/81384734?s=400&u=17d2f4016ece9179590f807b164e90e9d84f7cee&v=4)
+## Hi there 👋
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod, nisl eget consectetur consectetur, nisl nunc aliquet nunc, euismod aliquam nunc nisl euismod nunc. Nulla facilisi.
+We are a group of students from [ENSEEIHT](https://www.enseeiht.fr/) (read "N7") specialized in various fields inside the Computer science department. This organization aims to regroup open source projects that we think are worth looking at, and to provide a common ground for everyone to contribute to them.
 
-## SubCategory
+## Under construction 🚧
 
-### SubSubCategory
+We're using the basic jekyll generator to generate a static site at the moment, but this is temporary. The features available might be sufficient for a basic documentation, but it clearly is impossible to build a fully featured website using this infrastructure.
 
-A GANTT diagram example:
-```mermaid
-gantt
-dateFormat  YYYY-MM-DD
-title Adding GANTT diagram to mermaid
-excludes weekdays 2014-01-10
+## What's next? 🚀
 
-section A section
-Completed task            :done,    des1, 2014-01-06,2014-01-08
-Active task               :active,  des2, 2014-01-09, 3d
-Future task               :         des3, after des2, 5d
-Future task2               :         des4, after des3, 5d
-```
+We'll be publishing releases and news here, so stay tuned for updates. To do so, you can follow us on [GitHub](https://github.com/PhotonSquid), and watch some of our [repositories](https://github.com/orgs/photonsquid/repositories).
